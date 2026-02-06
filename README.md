@@ -30,15 +30,18 @@ Matplotlib
 
 All tests were run locally on a personal machine with limited storage and compute.
 
-Output
+Output:
+
 Tabular comparison of model metrics
 Bar plots for visual comparison of load time and token rates
 Example output image is included.
 
-Limitations
+Limitations:
+
 Only a small number of models are tested
 Results are hardware-dependent
 No accuracy or qualitative evaluation is performed
 
-Notes
+Notes:
+
 This is a simple experimental notebook, intended for learning and exploration rather than comprehensive benchmarking.
